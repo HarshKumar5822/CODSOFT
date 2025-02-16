@@ -1,6 +1,6 @@
 # CODSOFT
 
-## TASK_1
+## TASK_2
 
 ## Simple Calculator
 
@@ -30,7 +30,7 @@ To exit, enter 'q' instead of an operation number.
 
 Python 3.x
 
-## TASK_2 
+## TASK_3 
 
 ## Password Generator
 
