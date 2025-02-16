@@ -1,5 +1,7 @@
 # CODSOFT
 
+## TASK_1
+
 ## Simple Calculator
 
 Description: This is a basic Python calculator that performs four arithmetic operations: addition, subtraction, multiplication, and division. The program runs in a loop, allowing users to choose operations until they decide to quit. It also handles invalid inputs and prevents division by zero.
@@ -28,6 +30,7 @@ To exit, enter 'q' instead of an operation number.
 
 Python 3.x
 
+TASK_2 
 
 ## Password Generator
 
