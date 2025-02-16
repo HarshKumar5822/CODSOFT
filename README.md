@@ -30,7 +30,7 @@ To exit, enter 'q' instead of an operation number.
 
 Python 3.x
 
-TASK_2 
+## TASK_2 
 
 ## Password Generator
 
