@@ -79,8 +79,7 @@ To quit, type 'q' when asked for input.
 Python 3.x
 No additional libraries needed (uses only the built-in random module).
 
-
-##TASK_5
+## TASK_5
 
 ## Contact Management System
 
