@@ -53,3 +53,27 @@ Otherwise, a random password is generated and printed.
 Run the script in a Python environment.
 Enter the desired password length (minimum 4).
 The generated password will be displayed.
+
+
+## TASK_4
+
+Rock, Paper, Scissors Game
+This is a simple Rock, Paper, Scissors game written in Python. You can play against the computer and keep track of the score.
+
+### How to Play
+
+Run the script.
+Choose rock, paper, or scissors when prompted.
+The computer will randomly pick one of the three options.
+The winner is decided based on the rules:
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+If both choices are the same, it's a tie.
+Your score and the computer's score are updated after each round.
+To quit, type 'q' when asked for input.
+
+### Requirements
+
+Python 3.x
+No additional libraries needed (uses only the built-in random module).
