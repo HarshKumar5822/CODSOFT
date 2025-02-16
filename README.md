@@ -57,8 +57,9 @@ The generated password will be displayed.
 
 ## TASK_4
 
-Rock, Paper, Scissors Game
-This is a simple Rock, Paper, Scissors game written in Python. You can play against the computer and keep track of the score.
+## Rock, Paper, Scissors Game
+
+Discription:- This is a simple Rock, Paper, Scissors game written in Python. You can play against the computer and keep track of the score.
 
 ### How to Play
 
@@ -77,3 +78,31 @@ To quit, type 'q' when asked for input.
 
 Python 3.x
 No additional libraries needed (uses only the built-in random module).
+
+
+##TASK_5
+
+## Contact Management System
+
+Discription: - This is a simple Contact Management System written in Python. It allows users to store and manage contact details like name, phone number, email, and address. The system provides a menu-based interface for easy interaction.
+
+### Features
+Add a new contact
+View all saved contacts
+Search for a contact by name or phone number
+Update existing contact details
+Delete a contact
+Simple and easy-to-use menu system
+
+### How It Works
+
+Run the program in Python.
+The system will display a menu with different options.
+Choose an option by entering the corresponding number.
+Follow the instructions to add, search, update, or delete contacts.
+To exit the program, select option 6.
+
+### Requirements
+
+Python 3.x
+No additional libraries required
