@@ -31,7 +31,7 @@ Python 3.x
 
 ## Password Generator
 
-### Description:- This is a simple Python script that generates a random password based on the specified length. It uses uppercase and lowercase letters, numbers, and special characters to create strong and secure passwords.
+Description:- This is a simple Python script that generates a random password based on the specified length. It uses uppercase and lowercase letters, numbers, and special characters to create strong and secure passwords.
 
 ### How It Works
 
